@@ -5,7 +5,7 @@ Origin:
    Microchip CPG
 
 Status:
-   version 0.1
+   version 0.2
 
 Purpose:
    Official peripheral firmware library for MEC1701
@@ -36,5 +36,7 @@ Patch Lst:
       - TC Channel Mode Register: Waveform Mode definitions
       - Legacy peripheral IDs definitions
       - DACC alternate pin functions
-
+   * Add old bit-field version of MEC1701 CMSIS header file for reference
+      mchp/soc/MCHP_MEC1701_bit_fields.h 
+      
        

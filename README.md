@@ -5,7 +5,7 @@ Origin:
    Microchip CPG
 
 Status:
-   version 0.1
+   version 0.2
 
 Purpose:
    Official peripheral firmware library for MEC1701
